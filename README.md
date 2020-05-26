@@ -12,4 +12,5 @@ Data:
 
 // This library has been developed for calculating Non-Linear Second-Order output signals. Calculating by defining a Function Transfer, the algorithm is able to deploy the Real-Time output signal from a discretized output.
 
+--- 
 
